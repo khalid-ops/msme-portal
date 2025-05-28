@@ -11,4 +11,4 @@ This Repo is MSME Application Sharing Portal, follow the steps to start the app.
 
 
 Functionality:
--  It has Application submission form, which can be used to submit the application for funds.
+-  It has MSME Application Submission Page, which can be used to submit the application for funds.
